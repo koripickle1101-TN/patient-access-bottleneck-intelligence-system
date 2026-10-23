@@ -14,6 +14,12 @@ This Excel workbook practices tracing where a front-end patient-access workflow 
 
 **Category:** Patient Access | Eligibility | Workflow Control
 
+## Open the Workbook
+
+**[Open in Google Sheets / Excel](https://docs.google.com/spreadsheets/d/1aenA2WpHbLtPsqfsvdFd7q1fMirAq-Et/edit)**
+
+Use this link. It opens the workbook correctly on a phone or computer. Do not open the `.xlsx` file in the GitHub text view.
+
 ## What the Artifact Contains
 
 | Sheet | Purpose |
@@ -43,10 +49,6 @@ To practice understanding how an upstream patient-access issue can create downst
 This is a Track 1 featured project. It complements [EVIS](https://github.com/koripickle1101-TN/eligibility-verification-intelligence-system) by showing how a single registration discrepancy can cascade.
 
 **Portfolio Hub:** [healthcare-operations-portfolio-hub.vercel.app](https://healthcare-operations-portfolio-hub.vercel.app/)
-
-## Download
-
-**[Patient_Access_Bottleneck_Intelligence_System.xlsx](./Patient_Access_Bottleneck_Intelligence_System.xlsx)**
 
 ## Boundaries
 
