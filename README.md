@@ -16,7 +16,7 @@ This Excel workbook practices tracing where a front-end patient-access workflow 
 
 ## Open the Workbook
 
-**[Open in Google Sheets / Excel](https://docs.google.com/spreadsheets/d/1usf165uIxcCEINFGcBHethDw86FoZx3J/edit)**
+**[Open in Google Sheets / Excel](https://docs.google.com/spreadsheets/d/19a-T6UUd1p7BUKfwAcVnaq9XeemnljKI/edit)**
 
 Use this link. It opens the workbook correctly on a phone or computer. Do not open the `.xlsx` file in the GitHub text view.
 
@@ -24,7 +24,7 @@ Use this link. It opens the workbook correctly on a phone or computer. Do not op
 
 | Sheet | Purpose |
 |---|---|
-| START HERE | Project purpose, simulated problem, how to use the workbook, and completion standard |
+| START HERE | Student name, project purpose, simulated problem, how to use the workbook, and completion standard |
 | WORKFLOW MAP | Eight-step failure path from scheduling through verified closure, with expected control, simulated failure, and response |
 | CASE CONTROL | 12 simulated cases with ownership, priority, next action, follow-up, escalation, communication, and closure status |
 | ACCURACY CONTROLS | Completeness, consistency, ownership, escalation, communication, and closure checks |
