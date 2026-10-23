@@ -16,7 +16,7 @@ This Excel workbook practices tracing where a front-end patient-access workflow 
 
 ## Open the Workbook
 
-**[Open in Google Sheets / Excel](https://docs.google.com/spreadsheets/d/1aenA2WpHbLtPsqfsvdFd7q1fMirAq-Et/edit)**
+**[Open in Google Sheets / Excel](https://docs.google.com/spreadsheets/d/1usf165uIxcCEINFGcBHethDw86FoZx3J/edit)**
 
 Use this link. It opens the workbook correctly on a phone or computer. Do not open the `.xlsx` file in the GitHub text view.
 
@@ -24,12 +24,14 @@ Use this link. It opens the workbook correctly on a phone or computer. Do not op
 
 | Sheet | Purpose |
 |---|---|
-| START HERE | Project purpose, simulated problem, and what the workbook demonstrates |
-| WORKFLOW MAP | Step-by-step failure path from scheduling through registration, eligibility, authorization readiness, financial clearance, and patient communication |
-| CASE CONTROL | Simulated tracker with ownership, priority, next action, follow-up, escalation, communication, and closure status |
-| ACCURACY CONTROLS | Completeness, consistency, documentation, ownership, and final-check controls |
-| DASHBOARD | Formula-driven summary of open cases, escalations, and stage distribution |
-| EVIDENCE GUIDE | Translation of the workbook into recruiter-facing language without overstating experience |
+| START HERE | Project purpose, simulated problem, how to use the workbook, and completion standard |
+| WORKFLOW MAP | Eight-step failure path from scheduling through verified closure, with expected control, simulated failure, and response |
+| CASE CONTROL | 12 simulated cases with ownership, priority, next action, follow-up, escalation, communication, and closure status |
+| ACCURACY CONTROLS | Completeness, consistency, ownership, escalation, communication, and closure checks |
+| RISK MATRIX | Practice view of failure types by likelihood, downstream impact, and priority guidance |
+| DASHBOARD | Formula-driven summary of open workload, bottleneck stage, escalations, and overdue follow-ups |
+| GLOSSARY | Plain-language definitions of the terms used in the workbook |
+| EVIDENCE GUIDE | Honest recruiter-facing language and interview talking points |
 
 ## What I Practiced
 
